@@ -1,0 +1,58 @@
+body{
+ background-image: url("background.jpg") ;
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-attachment:scroll;
+}
+
+.titulos{ 
+    font-family: 'Dancing Script', cursive;
+}
+
+.parrafos{ 
+    font-family: 'Architects Daughter', cursive;
+}
+
+.navegador{
+    font-family: 'Work Sans', sans-serif;
+    background-color: rgb(252, 157, 173) ;
+}
+
+a:link{
+    color: plum;
+}
+
+a:visited{
+    color:purple
+}
+
+
+a:hover{
+    color: rgb(236, 15, 118);
+}
+
+a:active{
+    color: rgb(255, 0, 149);
+}
+
+.uno{
+    display: inline-block;
+    background-color:pink ;
+    padding: 20px;
+}
+
+.dos{
+    display: inline-block;
+    background-color:pink ;
+    padding: 20px;
+}
+
+.tres{
+    display: inline-block; 
+    background-color:pink ;
+    padding: 20px;
+}
+
+.card{
+    border: 20px;
+}
