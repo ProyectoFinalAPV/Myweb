@@ -1,0 +1,49 @@
+body{
+    background-color: aquamarine;
+}
+
+.subtitulo{ 
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.parrafo{
+    font-family: 'Architects Daughter', cursive;
+ }
+
+ header{
+    font-family: 'Indie Flower', cursive;
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    border-style: solid;
+    border-color: rgb(17, 2, 224);
+ }
+
+ .nav{
+    font-family: 'Indie Flower', cursive;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+ }
+
+ .aside{
+    font-family: 'Architects Daughter', cursive;
+   
+ }
+
+.main{
+    display: flex;
+}
+
+.footer{ 
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.todo{ 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
